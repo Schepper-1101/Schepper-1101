@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**Schepper-1101/Schepper-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Malik Muhammad Ahsan, a lifelong tech enthusiast with a burning passion for computers and technology. 🚀
+🎓 Currently pursuing my BS in Information Technology, I'm on a mission to master the art of coding in C++. 🖥️
+🌱 While I'm somewhere between a beginner and an intermediate coder, I'm constantly pushing my boundaries because I dream of achieving greatness in the tech world.
+💡 Inspired by the legendary Dennis Ritchie, I aspire to acquire knowledge that reaches even greater heights! 📚
 
-Here are some ideas to get you started:
+Let's code the future together! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My Interests
+
+🔭 I’m currently working on honing my C++ skills and building small software projects.
+🌱 I’m currently learning about data structures, algorithms, and software design principles.
+👯 I’m looking to collaborate on open-source projects that make a positive impact.
+🤔 I’m looking for help with mastering advanced C++ topics and software architecture.
+💬 Ask me about anything related to coding, tech trends, or programming challenges.
+
+## Contact Me
+
+📫 Reach out to me on [Instagram][https://www.instagram.com/malik._.m.ahsan/?hl=en]
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
