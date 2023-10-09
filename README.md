@@ -19,6 +19,6 @@ Let's code the future together! 🌟
 
 ## Contact Me
 
-📫 Reach out to me on [Instagram][https://www.instagram.com/malik._.m.ahsan/?hl=en]
+📫 Reach out to me on **Instagram** https://www.instagram.com/malik._.m.ahsan/?hl=en
 😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
