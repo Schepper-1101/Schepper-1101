@@ -21,9 +21,9 @@ Let's code the future together! 🌟
 
 ## Contact Me
 
-<a href="https://www.instagram.com/malik._.m.ahsan/?hl=en" onclick="window.open(this.href, '_blank'); return false;"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="16" height="16"></a> [**Instagram** ](https://www.instagram.com/malik._.m.ahsan/?hl=en)  
-<a href="https://www.linkedin.com/in/malik-muhammad-ahsan-6896ab271/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="16" height="16"></a> [**LinkedIn**](https://www.linkedin.com/in/malik-muhammad-ahsan-6896ab271/)   
-<a href="https://twitter.com/Schepper_1101" target="_blank"><img src="https://i.pinimg.com/originals/51/aa/66/51aa66c72e3d8e743f7d54eef86c9f41.png" alt="Twitter" width="16" height="16"></a> [**X**](https://twitter.com/Schepper_1101)  
-<a href="https://web.facebook.com/malik.muhammad.ahsan22" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="16" height="16" style="background-color: white;"></a> [**Facebook**](https://web.facebook.com/malik.muhammad.ahsan22)  
+<a href="https://www.instagram.com/malik._.m.ahsan/?hl=en">{:target="_blank"}<img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="16" height="16"></a> [**Instagram** ](https://www.instagram.com/malik._.m.ahsan/?hl=en){:target="_blank"}
+<a href="https://www.linkedin.com/in/malik-muhammad-ahsan-6896ab271/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="16" height="16"></a> [**LinkedIn**](https://www.linkedin.com/in/malik-muhammad-ahsan-6896ab271/)   
+<a href="https://twitter.com/Schepper_1101"><img src="https://i.pinimg.com/originals/51/aa/66/51aa66c72e3d8e743f7d54eef86c9f41.png" alt="Twitter" width="16" height="16"></a> [**X**](https://twitter.com/Schepper_1101)  
+<a href="https://web.facebook.com/malik.muhammad.ahsan22"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="16" height="16" style="background-color: white;"></a> [**Facebook**](https://web.facebook.com/malik.muhammad.ahsan22)  
 😄 Pronouns: He/Him  
 
