@@ -2,7 +2,7 @@
 
 👋 I'm Malik Muhammad Ahsan, a lifelong tech enthusiast with a burning passion for computers and technology. 🚀  
 🎓 Currently pursuing my BS in Information Technology, I'm on a mission to master the art of coding in C++. 🖥️  
-🌱 While I'm somewhere between a beginner and an intermediate coder, I'm constantly pushing my boundaries because I dream of achieving greatness in the tech world.  
+🌱 While I'm somewhere between a beginner and an intermediate coder, I'm constantly pushing my boundaries because I     dream of achieving greatness in the tech world.  
 💡 Inspired by the legendary Dennis Ritchie, I aspire to acquire knowledge that reaches even greater heights! 📚  
 
 
